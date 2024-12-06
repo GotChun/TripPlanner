@@ -1,0 +1,48 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker"><![CDATA[{
+  "projectData": {
+    "GRADLE": {
+      "C:/spWorkspace/06_mybatis": {
+        "settingsTracker": {
+          "isDirty": false,
+          "settingsFiles": {
+            "C:/spWorkspace/06_mybatis/gradle/wrapper/gradle-wrapper.properties": 2931574364,
+            "C:/spWorkspace/06_mybatis/build.gradle": 1960276654,
+            "C:/spWorkspace/06_mybatis/settings.gradle": 68621104
+          }
+        }
+      }
+    }
+  }
+}]]></component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\Administrator\.gradle\wrapper\dists\gradle-8.10.2-bin\a04bxjujx95o3nb99gddekhwo\gradle-8.10.2" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="8.10.2" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectDependenciesModelState">
+    <option name="PROJECT_STATE" value="[{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.hibernate.validator&quot;,&quot;name&quot;:&quot;hibernate-validator&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;8.0.1.Final&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.hibernate.validator:hibernate-validator:8.0.1.Final:null:null&quot;,&quot;searchCoordinates&quot;:&quot;org.hibernate.validator:hibernate-validator:8.0.1.Final&quot;,&quot;searchKey&quot;:&quot;e5bb626002db7cad8c91d217171b080a15f7caa5adc549a9e4a0595756c4c24f&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.hibernate.validator:hibernate-validator:8.0.1.Final&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;jakarta.validation&quot;,&quot;name&quot;:&quot;jakarta.validation-api&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;3.1.0&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:jakarta.validation:jakarta.validation-api:3.1.0:null:null&quot;,&quot;searchCoordinates&quot;:&quot;jakarta.validation:jakarta.validation-api:3.1.0&quot;,&quot;searchKey&quot;:&quot;815c87c0d299533381f8916fefb41f013fef8496bf456ea9ccca1784fa157930&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:jakarta.validation:jakarta.validation-api:3.1.0&quot;},{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.apache.commons&quot;,&quot;name&quot;:&quot;commons-dbcp2&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;2.12.0&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.apache.commons:commons-dbcp2:2.12.0:null:null&quot;,&quot;searchCoordinates&quot;:&quot;org.apache.commons:commons-dbcp2:2.12.0&quot;,&quot;searchKey&quot;:&quot;4b11efa930e63cdf050552f68ec2e68f0e8f8e81a67aa1ac21b05e54b7fb8715&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.apache.commons:commons-dbcp2:2.12.0&quot;}]" />
+  </component>
+  <component name="RestoreUpdateTree"><![CDATA[{}]]></component>
+  <component name="sourceFolderManager">
+    <sourceFolders>
+      <SourceFolderModelState>
+        <option name="moduleName" value="demo.test" />
+        <option name="type" value="TEST_RESOURCE" />
+        <option name="url" value="file://$PROJECT_DIR$/src/test/resources" />
+      </SourceFolderModelState>
+    </sourceFolders>
+  </component>
+</project>
